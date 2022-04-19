@@ -47,8 +47,6 @@ int* read_sudoku(const char* path) {
             sudoku_grid[grid_index++] = (ch == '.') ? 0 : (ch - '0');
     }
     fclose(fp);
-
-    printf("\n");
     return sudoku_grid;
 }
 
