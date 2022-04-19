@@ -1,0 +1,13 @@
+A simple program to solve sudoku
+
+Reads sudoku in the form:
+
+65..47..2
+.8.......
+2....5...
+.4.5.92.7
+.....35..
+....6.3..
+7....6...
+..5..27.3
+9237.....
